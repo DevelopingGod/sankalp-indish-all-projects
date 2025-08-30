@@ -32,32 +32,9 @@ Visit the “Explore” section on the site to dive into individual projects.
 
 ---
 
-## 📂 Repository Structure
-
-/
-├── assets/ # Images, icons, and other static assets
-│ ├── AI/
-│ ├── Cloud/
-│ ├── Data/
-│ └── ...
-├── projects/ # Project-specific pages and contents
-│ ├── AI/
-│ ├── Cloud/
-│ ├── Data/
-│ └── ...
-├── about.html # About page
-├── ai.html # AI category overview
-├── cloud.html # Cloud category overview
-├── contact.html # Contact page
-├── index.html # Home page (landing)
-└── software.html # Software development category
-
-
----
-
 ## 🔗 Live Site
 
-Explore the live website here: [Projects by SI](https://developinggod.github.io/my-projects/)
+Explore the live website here: [Projects by SI](https://developinggod.github.io/sankalp-indish-all-projects/)
 
 ---
 
