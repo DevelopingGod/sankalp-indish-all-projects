@@ -49,8 +49,6 @@ Contributions and feedback are welcome! Please fork the repository and submit a 
 Feel free to reach out:
 
 - Email: sanind2004@gmail.com  
-- LinkedIn: [Your LinkedIn URL]  
-- Twitter: [Your Twitter Handle]
 
 ---
 
