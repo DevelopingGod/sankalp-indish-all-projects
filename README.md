@@ -1,4 +1,4 @@
-# Projects by SI
+# Projects by SI - Sankalp Indish
 
 Welcome to **Projects by SI**, a personal portfolio website showcasing advanced projects in Data Science, Artificial Intelligence, Cloud, Full Stack, and Software Development.
 
