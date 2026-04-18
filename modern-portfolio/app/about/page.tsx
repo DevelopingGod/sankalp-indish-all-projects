@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About | Projects by SI",
-  description: "About Sankalp Indish — Business Analyst, data, and software projects.",
+  description: "About Sankalp Indish — AI Engineer and projects.",
 };
 
 export default function AboutPage() {
@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
           <h1 className="text-3xl font-semibold sm:text-4xl">About Me</h1>
           <p className="mt-3 text-lg text-white/95 sm:text-xl">
-            Get to know the person behind the code
+            Get to know the person behind the codes
           </p>
         </div>
       </section>
@@ -30,12 +30,11 @@ export default function AboutPage() {
               Sankalp Indish
             </h2>
             <p className="text-lg leading-relaxed text-[#212529]">
-              I am a passionate Business Analyst with expertise in Python, Power
-              BI, Tableau, and SQL. I love solving complex problems and building
-              dynamic data-driven solutions.
+              I am an AI Engineer who loves solving complex problems and building
+              dynamic data-driven, agentic-AI and automation-based solutions.
             </p>
             <p className="mt-4 leading-relaxed text-[#6c757d]">
-              My portfolio features various projects across AI, Data, and
+              My portfolio features various projects across AI, Data, DevOps, Fullstack and
               Software Development. I constantly explore new technologies to
               deliver innovative solutions.
             </p>
