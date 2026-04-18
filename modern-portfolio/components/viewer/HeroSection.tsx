@@ -6,7 +6,7 @@ export function HeroSection() {
           Hello, I&apos;m Sankalp Indish
         </h1>
         <p className="mx-auto mt-3 max-w-2xl text-lg leading-relaxed text-white/95 sm:text-xl">
-          Data Scientist &amp; AI Aspirant | Python, PowerBI, Tableau, SQL
+          AI Engineer
         </p>
       </div>
     </section>
